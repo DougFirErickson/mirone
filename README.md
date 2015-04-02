@@ -7,7 +7,7 @@ For more information, go here: http://w3.ualg.pt/~jluis/mirone/
 
 For tutorials, go here: https://sites.google.com/site/mironehowtos/
 
-If you use these tools, please reference this paper: http://www.sciencedirect.com/science/article/pii/S0098300406000902
+If you use these tools for scholarly research, please reference this paper: http://www.sciencedirect.com/science/article/pii/S0098300406000902
 
 Cheers,
 
